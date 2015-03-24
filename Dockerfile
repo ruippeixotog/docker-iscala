@@ -1,4 +1,4 @@
-FROM dockerfile/java:openjdk-7-jdk
+FROM java:7-jdk
 MAINTAINER Rui Gonçalves <ruippeixotog@gmail.com>
 
 RUN apt-get update
